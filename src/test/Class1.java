@@ -12,6 +12,7 @@ public class Class1 {
 	public void lastExecution()
 	{
 		System.out.println("Will execute at last");
+		System.out.println("adding line to check git commands");
 	}
 
 @Parameters({"URL"})
