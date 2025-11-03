@@ -14,6 +14,7 @@ public class Class1 {
 		System.out.println("Will execute at last");
 		System.out.println("adding line to check git commands");
 		System.out.println("adding line to check git commands 2");
+		System.out.println("adding line to check git commands 3");
 	}
 
 @Parameters({"URL"})
