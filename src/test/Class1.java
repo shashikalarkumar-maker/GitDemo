@@ -16,6 +16,7 @@ public class Class1 {
 		System.out.println("adding line to check git commands 2");
 		System.out.println("adding line to check git commands 3");
 		System.out.println("develop branch changes");
+		System.out.println("develop branch changes from other employee");
 	}
 
 @Parameters({"URL"})
